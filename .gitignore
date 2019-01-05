@@ -62,3 +62,6 @@ typings/
 
 # Webstorm
 .idea/
+
+# Compiled React
+server/public/javascripts/bundle.js
