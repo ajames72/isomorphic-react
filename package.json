@@ -17,7 +17,8 @@
     "isomorphic",
     "react",
     "express",
-    "node"
+    "node",
+    "EJS"
   ],
   "author": "AJMEBC Ltd",
   "license": "ISC",
